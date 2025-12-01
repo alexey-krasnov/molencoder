@@ -52,7 +52,13 @@ Contains all experimental data and analysis from the paper:
 If you use MolEncoder in your research, please cite:
 
 ```bibtex
-@article{Krüger_Österbacka_Kabeshov_Engkvist_Tetko_2025, title={MolEncoder: Towards Optimal Masked Language Modeling for Molecules}, DOI={10.26434/chemrxiv-2025-h4w9d}, journal={ChemRxiv}, author={Krüger, Fabian Per and Österbacka, Nicklas and Kabeshov, Mikhail and Engkvist, Ola and Tetko, Igor}, year={2025}}  This content is a preprint and has not been peer-reviewed.
+@article{kruger2025molencoder,
+  title={MolEncoder: Towards Optimal Masked Language Modeling for Molecules},
+  author={Kr{\"u}ger, Fabian Per and {\"O}sterbacka, Nicklas and Kabeshov, Mikhail and Engkvist, Ola and Tetko, Igor V},
+  journal={Digital Discovery},
+  year={2025},
+  publisher={Royal Society of Chemistry}
+}
 ```
 
 ## Links
