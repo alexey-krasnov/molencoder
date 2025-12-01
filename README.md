@@ -64,7 +64,7 @@ If you use MolEncoder in your research, please cite:
 ## Links
 
 - **Model on Hugging Face**: [`fabikru/MolEncoder`](https://huggingface.co/fabikru/MolEncoder)
-- **Paper**: [ChemRxiv](https://doi.org/10.26434/chemrxiv-2025-h4w9d)
+- **Paper**: [Digital Discovery](https://doi.org/10.1039/D5DD00369E)
 
 ## License
 
